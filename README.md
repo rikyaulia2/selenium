@@ -36,6 +36,6 @@ search_box.submit()
 driver.implicitly_wait(5)
 driver.quit()
 ```
-##❗ Notes
+## ❗ Notes
 * If you’re using Firefox or another browser, use the appropriate WebDriver like `webdriver.Firefox()`.
 * You can customize the search term by changing the send_keys() input.
